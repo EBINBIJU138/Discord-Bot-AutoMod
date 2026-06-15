@@ -1,8 +1,8 @@
-# 🚀 AutoGravity Discord Bot
+# 🚀 Discord Bot
 
-**AutoGravity** is an advanced all-in-one Discord management bot built to protect, manage, and grow your Discord server with AI-powered moderation, automation, welcome systems, auto roles, and slash commands.
+is an advanced all-in-one Discord management bot built to protect, manage, and grow your Discord server with AI-powered moderation, automation, welcome systems, auto roles, and slash commands.
 
-![AutoGravity Banner]
+
    <img width="1536" height="1024" alt="a618c68a-7a00-4c06-9a3e-b785177c7ae0" src="https://github.com/user-attachments/assets/5e3e2b01-f6c4-40f7-bf47-7d0dd6af4652" />
 
 ---
@@ -151,7 +151,7 @@ autogravity-discord-bot/
 
 ## 🔐 Permissions Required
 
-AutoGravity may require the following Discord permissions:
+ may require the following Discord permissions:
 
 - Manage Server
 - Manage Roles
@@ -200,4 +200,4 @@ This project is licensed under the **MIT License**.
 
 **Safer. Smarter. Stronger.**
 
-> More than a Discord bot — AutoGravity is your intelligent server management system.
+> More than a Discord bot —  is your intelligent server management system.

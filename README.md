@@ -2,7 +2,8 @@
 
 **AutoGravity** is an advanced all-in-one Discord management bot built to protect, manage, and grow your Discord server with AI-powered moderation, automation, welcome systems, auto roles, and slash commands.
 
-![AutoGravity Banner](./assets/autogravity-banner.png)
+![AutoGravity Banner]
+   <img width="1536" height="1024" alt="a618c68a-7a00-4c06-9a3e-b785177c7ae0" src="https://github.com/user-attachments/assets/5e3e2b01-f6c4-40f7-bf47-7d0dd6af4652" />
 
 ---
 
